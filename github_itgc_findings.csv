@@ -1,0 +1,65 @@
+Repository,Control Domain,Control,Status,Severity,Detail
+Car-rental-,Documentation,README present,FAIL,Low,No README.md at repo root
+Car-rental-,Documentation,License declared,FAIL,Low,No LICENSE file — usage rights undefined
+Car-rental-,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+Car-rental-,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+Car-rental-,Secrets Hygiene,Sensitive filenames in repo,PASS,High,No .env/.pem/credentials-style filenames tracked in the tree
+Car-rental-,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 0 sampled text file(s)
+Car-rental-,Monitoring,Repository activity,FAIL,Low,No pushes in 317 days (> 180-day threshold) — confirm still in active use
+Car-rental-,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
+Eluxe_Landing_page,Documentation,README present,PASS,Low,README.md found
+Eluxe_Landing_page,Documentation,License declared,FAIL,Low,No LICENSE file — usage rights undefined
+Eluxe_Landing_page,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+Eluxe_Landing_page,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+Eluxe_Landing_page,Secrets Hygiene,Sensitive filenames in repo,PASS,High,No .env/.pem/credentials-style filenames tracked in the tree
+Eluxe_Landing_page,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 7 sampled text file(s)
+Eluxe_Landing_page,Monitoring,Repository activity,FAIL,Low,No pushes in 281 days (> 180-day threshold) — confirm still in active use
+Eluxe_Landing_page,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
+Food-Delivery,Documentation,README present,PASS,Low,README.md found
+Food-Delivery,Documentation,License declared,FAIL,Low,No LICENSE file — usage rights undefined
+Food-Delivery,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+Food-Delivery,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+Food-Delivery,Secrets Hygiene,Sensitive filenames in repo,PASS,High,No .env/.pem/credentials-style filenames tracked in the tree
+Food-Delivery,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 1 sampled text file(s)
+Food-Delivery,Monitoring,Repository activity,FAIL,Low,No pushes in 377 days (> 180-day threshold) — confirm still in active use
+Food-Delivery,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
+Linkedin_Automation,Documentation,README present,PASS,Low,README.md found
+Linkedin_Automation,Documentation,License declared,FAIL,Low,No LICENSE file — usage rights undefined
+Linkedin_Automation,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+Linkedin_Automation,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+Linkedin_Automation,Secrets Hygiene,Sensitive filenames in repo,PASS,High,No .env/.pem/credentials-style filenames tracked in the tree
+Linkedin_Automation,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 1 sampled text file(s)
+Linkedin_Automation,Monitoring,Repository activity,FAIL,Low,No pushes in 262 days (> 180-day threshold) — confirm still in active use
+Linkedin_Automation,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
+online-dating-website,Documentation,README present,FAIL,Low,No README.md at repo root
+online-dating-website,Documentation,License declared,FAIL,Low,No LICENSE file — usage rights undefined
+online-dating-website,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+online-dating-website,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+online-dating-website,Secrets Hygiene,Sensitive filenames in repo,PASS,High,No .env/.pem/credentials-style filenames tracked in the tree
+online-dating-website,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 0 sampled text file(s)
+online-dating-website,Monitoring,Repository activity,FAIL,Low,No pushes in 1251 days (> 180-day threshold) — confirm still in active use
+online-dating-website,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
+PDF_Validator,Documentation,README present,PASS,Low,README.md found
+PDF_Validator,Documentation,License declared,FAIL,Low,No LICENSE file — usage rights undefined
+PDF_Validator,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+PDF_Validator,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+PDF_Validator,Secrets Hygiene,Sensitive filenames in repo,FAIL,High,Found tracked file(s) matching secret-like names: .env
+PDF_Validator,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 2 sampled text file(s)
+PDF_Validator,Monitoring,Repository activity,FAIL,Low,No pushes in 293 days (> 180-day threshold) — confirm still in active use
+PDF_Validator,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
+Student-Attendance-System-,Documentation,README present,PASS,Low,README.md found
+Student-Attendance-System-,Documentation,License declared,PASS,Low,LICENSE file found
+Student-Attendance-System-,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+Student-Attendance-System-,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+Student-Attendance-System-,Secrets Hygiene,Sensitive filenames in repo,PASS,High,No .env/.pem/credentials-style filenames tracked in the tree
+Student-Attendance-System-,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 1 sampled text file(s)
+Student-Attendance-System-,Monitoring,Repository activity,FAIL,Low,No pushes in 291 days (> 180-day threshold) — confirm still in active use
+Student-Attendance-System-,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
+task-manager-fullstack-project,Documentation,README present,FAIL,Low,No README.md at repo root
+task-manager-fullstack-project,Documentation,License declared,FAIL,Low,No LICENSE file — usage rights undefined
+task-manager-fullstack-project,Documentation,Security policy (SECURITY.md),FAIL,Low,No vulnerability-disclosure policy on file
+task-manager-fullstack-project,Change Management,CI/CD pipeline configured,FAIL,Medium,No .github/workflows — no automated build/test/lint gate
+task-manager-fullstack-project,Secrets Hygiene,Sensitive filenames in repo,PASS,High,No .env/.pem/credentials-style filenames tracked in the tree
+task-manager-fullstack-project,Secrets Hygiene,Hardcoded secret patterns,PASS,Critical,No known secret patterns matched in 8 sampled text file(s)
+task-manager-fullstack-project,Monitoring,Repository activity,FAIL,Low,No pushes in 269 days (> 180-day threshold) — confirm still in active use
+task-manager-fullstack-project,Access Control,Branch protection on default branch,NOT ASSESSED,Medium,Requires an authenticated token with repo access — skipped in unauthenticated run
